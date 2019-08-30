@@ -2,6 +2,7 @@
 Repositorio de la materia Mineria de Datos de Oscar Ibañez
 
 Grupo 2:
+  
   Esteban Daniel Pereira Nuñez
   
   Maria Bernarda Serrano Larrea
